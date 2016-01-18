@@ -11,5 +11,10 @@
         <![CDATA[  <br/> Tuesday, January 5 2016 <br/> Last Week's Event <br/> This event happened last week, it really shouldn't be here <br/> 3:00 AM <br/><br/> Money last week <br/><br/><br/> ]]>
       </description>
     </item>
+    <item>
+      <description>
+        <![CDATA[  <br/> Sunday, January 17 2016 <br/> Kool Kool <br/> okay <br/> 6:00 PM <br/><br/> Kookies <br/><br/><br/> ]]>
+      </description>
+    </item>
   </channel>
 </rss>
