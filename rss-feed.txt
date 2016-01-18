@@ -8,7 +8,7 @@
     </item>
     <item>
       <description>
-        <![CDATA[ <br/> Sunday, January 17 2016 <br/> Fraternity Night <br/> Description <br/> 6:00 PM <br/> Abesein's house <br/> money for event <br/> Abestein <br/> 11111 jason way <br/> ]]>
+        <![CDATA[ <br/> Monday, January 18 2016 <br/> Fraternity Night <br/> Description <br/> 6:00 PM <br/> Abesein's house <br/> money for event <br/> Abestein <br/> 11111 jason way <br/> ]]>
       </description>
     </item>
   </channel>
