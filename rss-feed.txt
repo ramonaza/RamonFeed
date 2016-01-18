@@ -8,7 +8,7 @@
     </item>
     <item>
       <description>
-        <![CDATA[ <br/> Tuesday, January 5 2016 <br/> Last Week's Event <br/> This event happened last week, it really shouldn't be here <br/> 3:00 AM <br/> <br/> Money last week <br/> <br/> <br/> ]]>
+        <![CDATA[ <br/> Tuesday, January 5 2016 <br/> Last Week's Event <br/> This event happened last week, it really shouldn't be here <br/> 3:00 AM <br/> I fill out <br/> Money last week <br/>  What iff <br/> these fields? <br/> ]]>
       </description>
     </item>
   </channel>
