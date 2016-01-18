@@ -6,5 +6,10 @@
         <![CDATA[ <br/> Saturday, January 23 2016 <br/> Saturday Event <br/> Enjoy your saturday with your brother Alephs! <br/> 6:00 PM <br/> Ofek's House <br/> Cookies and Money <br/> Ofek Gila, Roee Landesman <br/> 21675 Regnart Rd <br/> ]]>
       </description>
     </item>
+    <item>
+      <description>
+        <![CDATA[  <br/> Tuesday, January 5 2016 <br/> Last Week's Event <br/> This event happened last week, it really shouldn't be here <br/> 3:00 AM <br/><br/> Money last week <br/><br/><br/> ]]>
+      </description>
+    </item>
   </channel>
 </rss>
