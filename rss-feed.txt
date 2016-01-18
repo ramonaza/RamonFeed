@@ -3,7 +3,7 @@
   <channel>
     <item>
       <description>
-        <![CDATA[ <br/> Wednesday, February 17 2016 <br/> Newer Event <br/> Please Work <br/> 6:00 PM <br/> All <br/>  Filling <br/> Out <br/> The <br/> ]]>
+        <![CDATA[ <br/> Wednesday, February 17 2016 <br/> Newer Event <br/> Please Work <br/> 6:00 PM <br/> All <br/>  Filling <br/> Ofek <br/> The <br/> ]]>
       </description>
     </item>
     <item>
