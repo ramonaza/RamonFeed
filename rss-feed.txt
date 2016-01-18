@@ -3,7 +3,7 @@
   <channel>
     <item>
       <description>
-        <![CDATA[ <br/> Saturday, January 23 2016 <br/> Saturday Event <br/> Enjoy your saturday with your brother Alephs! <br/> 6:00 PM <br/> Ofek's House <br/> Cookies and Money <br/> Ofek Gila <br/> 21675 Regnart Rd <br/> ]]>
+        <![CDATA[ <br/> Saturday, January 23 2016 <br/> Saturday Event <br/> Enjoy your saturday with your brother Alephs! <br/> 6:00 PM <br/> Ofek's House <br/> Cookies and Money <br/> Ofek Gila, Roee Landesman <br/> 21675 Regnart Rd <br/> ]]>
       </description>
     </item>
   </channel>
