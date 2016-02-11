@@ -11,10 +11,5 @@
         <![CDATA[ <br/> Wednesday, February 10 2016 <br/> Whoa <br/> This event is crazY!!! <br/> 6:00 PM <br/> CBOG <br/> money <br/> GBOC <br/> The address .com <br/> ]]>
       </description>
     </item>
-    <item>
-      <description>
-        <![CDATA[  <br/> Friday, February 12 2016 <br/> Fraternity Night <br/> New Event <br/> 6:00 PM <br/>  <br/>  <br/>  <br/>  <br/> ]]>
-      </description>
-    </item>
   </channel>
 </rss>
